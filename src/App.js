@@ -33,7 +33,7 @@ const reducer = (state, action) => {
         return state;
   }
   // 액션에 따라 로컬 스테이지에 값을 변경
-  localStorage.setItem("diary", JSON.stringfy(newState));
+  localStorage.setItem("diary", JSON.stringify(newState));
   return newState;
 };
 
