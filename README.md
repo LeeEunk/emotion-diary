@@ -25,4 +25,4 @@ $ firebase deploy
 
 ### 참고 문서
 
-[react 공식 문서]([https://yunamom.tistory.com](https://ko.legacy.reactjs.org/docs/react-api.html#reactmemo)https://ko.legacy.reactjs.org/docs/react-api.html#reactmemo)
+[react 공식 문서](https://ko.legacy.reactjs.org/docs/react-api.html#reactmemo)https://ko.legacy.reactjs.org/docs/react-api.html#reactmemo)
