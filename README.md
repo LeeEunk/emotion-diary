@@ -1,4 +1,4 @@
-# Getting Started with Emoiton Diary App
+# Getting Started with Emotion Diary App
 
 Click the Link : https://eunkk-react-project-47c29.web.app/
 
