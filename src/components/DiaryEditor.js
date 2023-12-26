@@ -121,6 +121,7 @@ const DiaryEditor = ({ isEdit, originData }) => {
         </section>
         <section>
           <div className="control_box">
+            {/* 뒤로가기 */}
             <MyButton text={"취소하기"} onClick={() => navigate(-1)} />
             <MyButton
               text={"작성완료"}
