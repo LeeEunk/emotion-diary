@@ -1,6 +1,17 @@
 # Getting Started with Emotion Diary App
 
+## Requirements
+- git
+- firebase
+- NodeJS
+- Javascript
+- React.js
+
 ### Click the Link : <https://eunkk-react-project-47c29.web.app/>
 
 
-![Thumbnail](/public/thumbnail.png)
+#### Example Image
+![example](/public/example.png)
+
+
+
