@@ -57,6 +57,7 @@ const DiaryEditor = ({ isEdit, originData }) => {
     }
   };
 
+ 
   // 날짜, 이모션, 내용 변경 가능 필드 -> 업데이트
   useEffect(() => {
     if (isEdit) {
