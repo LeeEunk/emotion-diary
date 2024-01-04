@@ -11,6 +11,7 @@ $ git clone https://github.com/LeeEunk/emotion-diary.git
 $ npm install
 $ npm start
 $ npm run build
+$ firebase init
 $ firebase deploy
 ```
 
